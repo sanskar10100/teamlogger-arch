@@ -1,4 +1,6 @@
-# To Install
+# Download teamlogger pkg.tar.zst file from above
+
+# To Install, run in terminal
 ```
-sudo pacman -u <package_name>
+sudo pacman -u <file_name>
 ```
