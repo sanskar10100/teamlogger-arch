@@ -2,5 +2,5 @@
 
 ## To Install, run in terminal
 ```
-sudo pacman -u <file_name>
+sudo pacman -U <file_name>
 ```
